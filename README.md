@@ -1,3 +1,9 @@
+<style>
+  display:flex;
+  align-items:center;
+  justfify-content:center;
+</style>
+
 <h1 align="center">Hi 👋, I'm Kha Truong</h1>
 <h3 align="center">Test</h3>
 
