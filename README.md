@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaytee1&label=Profile%20views&color=0e75b6&style=flat" alt="kaytee1" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Open**
+<p align="center">- 🔭 I’m currently working on **Full Stack Open**</p>
 
 - 🌱 I’m currently learning **Frontend Development**
 
