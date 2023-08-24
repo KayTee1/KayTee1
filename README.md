@@ -13,8 +13,7 @@
 <p align="center">🌱 I’m currently learning **Frontend Development**</p>
 
 <p align="center">
-  👨‍💻 All of my projects are available at
-  [https://github.com/KayTee1](https://github.com/KayTee1)
+  👨‍💻 All of my projects are available at https://github.com/KayTee1
 </p>
 
 <p align="center">📫 How to reach me **truong.kha@outlook.com**</p>
