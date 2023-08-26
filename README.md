@@ -8,9 +8,9 @@
   />
 </p>
 
-<p align="center">🔭 I’m currently working on Full Stack Open</p>
+<p align="center">🔭 I’m currently working on Full Stack Open !</p>
 
-<p align="center">🌱 I’m currently learning frontend development with React and TypeScript!</p>
+<p align="center">🌱 I’m currently learning frontend development with React and TypeScript !</p>
 
 <p align="center">
   👨‍💻 All of my projects are available at
