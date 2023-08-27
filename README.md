@@ -12,12 +12,7 @@
 
 <p align="center">🌱 I’m currently learning frontend development with React !</p>
 
-<p align="center">
-  👨‍💻 All of my projects are available at
-  https://github.com/KayTee1
-</p>
-
-<p align="center">📫 How to reach me truong.kha@outlook.com</p>
+<p align="center">📫 Reach me through truong.kha@outlook.com</p>
 
 <p align="center">⚡ Fun fact: I don't need glasses, because I C#</p>
 
