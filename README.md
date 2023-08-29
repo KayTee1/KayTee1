@@ -52,7 +52,7 @@
   />
 </p>
 
-<div >
+<div justify-content="space-between">
   <p align="center">
     <img
       align="center"
