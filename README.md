@@ -52,7 +52,7 @@
   />
 </p>
 
-<div justify-content="space-between">
+<div display="row">
   <p align="center">
     <img
       align="center"
