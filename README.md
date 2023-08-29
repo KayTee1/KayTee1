@@ -52,18 +52,21 @@
   />
 </p>
 
-<p align="left">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kaytee1&show_icons=true&locale=en&layout=compact"
-    alt="kaytee1"
-  />
-</p>
+<div >
+  <p align="center">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=kaytee1&show_icons=true&locale=en&layout=compact"
+      alt="kaytee1"
+    />
+  </p>
 
-<p align="right">
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=kaytee1&show_icons=true&locale=en"
-    alt="kaytee1"
-  />
-</p>
+  <p align="center">
+    &nbsp;<img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=kaytee1&show_icons=true&locale=en"
+      alt="kaytee1"
+    />
+  </p>
+</div>
+
