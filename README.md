@@ -229,11 +229,3 @@
   />
 </p>
 
-<p align="center">
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=kaytee1&show_icons=true&theme=dark&locale=en"
-    alt="kaytee1"
-  />
-</p>
-
