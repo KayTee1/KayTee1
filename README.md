@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kha Truong</h1>
 <h3 align="center">Upcoming Full-stack Developer</h3>
 
-<p align="center">🔭 I'm currently working on Full Stack Open !</p>
-
 <p align="center">
-  🌱 I’m currently learning frontend development with React !
+  🌱 I’m currently building on my personal website with React!
 </p>
 
 <p align="center">📫 Reach me through truong.kha@outlook.com</p>
