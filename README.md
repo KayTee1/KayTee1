@@ -2,7 +2,7 @@
 <h3 align="center">Upcoming Full-stack Developer</h3>
 
 <p align="center">
-  🌱 I’m currently building on my personal website with React!
+  🌱 I’m currently learning NextJs!
 </p>
 
 <p align="center">📫 Reach me through truong.kha@outlook.com</p>
