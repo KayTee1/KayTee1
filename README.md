@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kha Truong</h1>
-<h3 align="center">Upcoming Full-stack Developer</h3>
+<h3 align="center">Upcoming Software Engineer</h3>
 
 <p align="center">
-  🌱 I’m currently learning Next.js!
+  🌱 I’m currently building a SaaS app for my thesis!
 </p>
 
 <p align="center">📫 Reach me through truong.kha@outlook.com</p>
