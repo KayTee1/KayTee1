@@ -226,7 +226,7 @@
     alt="kaytee1"
   />
 </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaytee1&theme=onedark&row=1&column=5)]
 <div align="center">
   <img
     align="center"
