@@ -228,6 +228,10 @@
 </p>
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=kaytee1&theme=onedark&row=1&column=5)(https://github.com/ryo-ma/github-profile-trophy)
+  <img
+    align="center"
+    src="[https://github-readme-streak-stats.herokuapp.com/?user=kaytee1&theme=dark](https://github-profile-trophy.vercel.app/?username=kaytee1&theme=onedark&row=1&column=5)"
+    alt="(https://github.com/ryo-ma/github-profile-trophy)"
+  />
 </div>
 
