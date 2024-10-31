@@ -231,7 +231,7 @@
 <div align="center">
   <img
     align="center"
-    src="https://github-profile-trophy.vercel.app/?username=kaytee1&theme=onedark&row=1&column=5"
+    src="https://github-profile-trophy.vercel.app/?username=kaytee1&theme=darkhub&row=1&column=5"
     alt="GitHub Trophy"
   />
 </div>
