@@ -226,12 +226,14 @@
     alt="kaytee1"
   />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaytee1&theme=onedark&row=1&column=5)]
+
+
 <div align="center">
   <img
     align="center"
-    src="[https://github-readme-streak-stats.herokuapp.com/?user=kaytee1&theme=dark](https://github-profile-trophy.vercel.app/?username=kaytee1&theme=onedark&row=1&column=5)"
-    alt="(https://github.com/ryo-ma/github-profile-trophy)"
+    src="https://github-profile-trophy.vercel.app/?username=kaytee1&theme=onedark&row=1&column=5"
+    alt="GitHub Trophy"
   />
 </div>
+
 
