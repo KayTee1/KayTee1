@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Kha Truong</h1>
-<h3>Software Engineer</h3>
+<h3>Founding a SaaS Startup for Bodybuilders</h3>
 
 📫 <a href="mailto:truong.kha@outlook.com">truong.kha@outlook.com</a>  
 ⚡ Fun fact: I don't need glasses, because I C#
