@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Kha Truong</h1>
-<h3>Founding a SaaS Startup for Bodybuilders</h3>
+<p>Working as a Software Engineer @ Patria Aviation</p>
+<p>Founding a SaaS Startup for Bodybuilders</p>
+<p>Learning C++</p>
 
-📫 <a href="mailto:truong.kha@outlook.com">truong.kha@outlook.com</a>  
 ⚡ Fun fact: I don't need glasses, because I C#
 
 ## 🌐 Connect with Me
