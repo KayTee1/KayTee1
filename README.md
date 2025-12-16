@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Kha Truong</h1>
-<p>Software Engineer @ Patria Aviation</p>
 <p>Founding a SaaS Startup for Bodybuilders</p>
 <p>Learning C++</p>
 
