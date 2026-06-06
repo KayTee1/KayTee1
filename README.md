@@ -84,7 +84,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=kaytee1&theme=darkhub&row=1&column=5"
+    src="https://github-profile-trophy-orcin-eta.vercel.app/?username=KayTee1&theme=darkhub&row=1&column=5"
     alt="GitHub Trophies"
   />
 </p>
