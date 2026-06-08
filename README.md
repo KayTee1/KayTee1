@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Kha Truong</h1>
 <p>🚀 Founding a SaaS Startup for Lifters</p>
 <p>🌱 Learning Dart & Flutter Mobile Development</p>
-<p>📈 My 9–5 funds my 5–9.</p>
+<p>📈 My 9–5 funds my 5–9</p>
 
 ## 🌐 Connect with Me
 
